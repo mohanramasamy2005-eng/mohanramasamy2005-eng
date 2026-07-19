@@ -24,16 +24,17 @@ const Mohan = {
     degree      : "B.E - Electronics & Communication Engineering"
     college     : "SNS College of Technology (2023 - 2027)"
 
-    techstack       : [
+    techstack   : [
                   "JavaScript", "Python", "React.js", "Node.js",
                   "Express.js", "FastAPI", "MongoDB", "MySQL",
                   "Tailwind CSS", "HTML", "CSS"
                   ]
 
-    currentlyLearning: [
-                       "MERN Stack", "AI API Integration",
-                       "Prompt Engineering", "Full Stack Development"
-                       ]
+    currentlyLearning:
+                  [
+                  "MERN Stack", "AI API Integration",
+                  "Prompt Engineering", "Full Stack Development"
+                  ]
 
     fun_fact     : "I turn coffee ☕ into scalable web apps with AI superpowers 🤖"
 
