@@ -43,6 +43,8 @@ const Mohan = {
 
 <br clear="right"/>
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -89,6 +91,8 @@ const Mohan = {
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 <br/>
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -111,6 +115,8 @@ const Mohan = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohanramasamy2005-eng&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
+
+---
 
 ### 💼 Work Experience
 
@@ -166,6 +172,8 @@ const Mohan = {
 
 </details>
 
+---
+
 ### 🚀 Featured Projects
 
 <div align="center">
@@ -177,6 +185,8 @@ const Mohan = {
 | **[Sales Dashboard](https://github.com/mohanramasamy2005-eng/SALES-DASHBOARD-using-Excel-)** | Excel (Pivot Tables & Charts) | Data analysis dashboard tracking sales trends and insights using pivot tables and visual charts |
 
 </div>
+
+---
 
 ### 🏆 Achievements
 
@@ -192,6 +202,8 @@ const Mohan = {
 
 </div>
 
+---
+
 ### 🎓 Education
 
 <div align="center">
@@ -203,6 +215,8 @@ const Mohan = {
 | Secondary School Leaving Certificate (SSLC) | The Crescent Hr. Sec. School, Avaniyapuram - Aduthurai | 2019 - 2022 | 77.6% |
 
 </div>
+
+---
 
 ### 📚 Currently Learning
 
@@ -217,12 +231,16 @@ const Mohan = {
 🔒 Web Security          →  Auth flows, JWT, OAuth 2.0
 ```
 
+---
+
 ### 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanramasamyy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanramasamy2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanramasamy2005-eng)
+
 
 *"Build systems that are not just functional — but meaningful to users."*
 
