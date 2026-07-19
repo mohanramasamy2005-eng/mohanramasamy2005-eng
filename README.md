@@ -24,7 +24,7 @@ const Mohan = {
     degree      : "B.E - Electronics & Communication Engineering"
     college     : "SNS College of Technology (2023 - 2027)"
 
-    stack       : [
+    techstack       : [
                   "JavaScript", "Python", "React.js", "Node.js",
                   "Express.js", "FastAPI", "MongoDB", "MySQL",
                   "Tailwind CSS", "HTML", "CSS"
