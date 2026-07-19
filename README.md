@@ -10,12 +10,14 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
 ### 💻 About Me
 
-```javascript
-const mohan = {
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+const Mohan = {
     name        : "Mohan R"
     location    : "Coimbatore, Tamil Nadu, India"
     degree      : "B.E - Electronics & Communication Engineering"
