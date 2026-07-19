@@ -16,18 +16,27 @@
 
 ```javascript
 const mohan = {
-    name: "Mohan R",
-    location: "Coimbatore, Tamil Nadu, India",
-    degree: "B.E - Electronics & Communication Engineering",
-    college: "SNS College of Technology (2023 - 2027)",
-    stack: ["JavaScript", "Python", "React.js", "Node.js",
-            "Express.js", "FastAPI", "MongoDB", "MySQL",
-            "Tailwind CSS", "HTML", "CSS"],
-    currentlyLearning: ["MERN Stack", "AI API Integration",
-                         "Prompt Engineering", "Full Stack Development"],
-    funFact: "Regularly grinding LeetCode & HackerRank 🧠",
+    name        : "Mohan R"
+    location    : "Coimbatore, Tamil Nadu, India"
+    degree      : "B.E - Electronics & Communication Engineering"
+    college     : "SNS College of Technology (2023 - 2027)"
+
+    stack       : [
+                  "JavaScript", "Python", "React.js", "Node.js",
+                  "Express.js", "FastAPI", "MongoDB", "MySQL",
+                  "Tailwind CSS", "HTML", "CSS"
+                  ]
+
+    currentlyLearning: [
+                       "MERN Stack", "AI API Integration",
+                       "Prompt Engineering", "Full Stack Development"
+                       ]
+
+    fun_fact     : "I turn coffee ☕ into scalable web apps with AI superpowers 🤖"
+
     motto: () => "Build real things, ship them, learn from them."
 };
+
 ```
 
 <br clear="right"/>
@@ -161,9 +170,9 @@ const mohan = {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Student Management System](https://github.com/mohanramasamy2005-eng)** | Python, SQL | Full CRUD system (add/view/update/delete student records) with dark-themed UI and stats dashboard |
-| **[E-Commerce Website](https://github.com/mohanramasamy2005-eng)** | HTML, CSS, JavaScript | Responsive e-commerce app with product listing, cart functionality, and dynamic UI updates via DOM manipulation |
-| **[Sales Dashboard](https://github.com/mohanramasamy2005-eng)** | Excel (Pivot Tables & Charts) | Data analysis dashboard tracking sales trends and insights using pivot tables and visual charts |
+| **[Student Management System](https://github.com/mohanramasamy2005-eng/STUDENT-MANAGEMENT--CRUD-)** | Python, SQL | Full CRUD system (add/view/update/delete student records) with dark-themed UI and stats dashboard |
+| **[E-Commerce Website](https://github.com/mohanramasamy2005-eng/E-Commerce-website)** | HTML, CSS, JavaScript | Responsive e-commerce app with product listing, cart functionality, and dynamic UI updates via DOM manipulation |
+| **[Sales Dashboard](https://github.com/mohanramasamy2005-eng/SALES-DASHBOARD-using-Excel-)** | Excel (Pivot Tables & Charts) | Data analysis dashboard tracking sales trends and insights using pivot tables and visual charts |
 
 </div>
 
@@ -196,9 +205,14 @@ const mohan = {
 ### 📚 Currently Learning
 
 ```
-🧱 MERN Stack           → MongoDB, Express.js, React.js, Node.js
-🤖 AI API Integration   → Gemini API, Claude AI, Prompt Engineering
-🚀 Full Stack Dev       → End-to-end app architecture & deployment
+🧱 MERN Stack            → MongoDB, Express.js, React.js, Node.js
+🤖 AI API Integration    → Gemini API, Claude AI, Prompt Engineering
+🚀 Full Stack Dev        → End-to-end app architecture & deployment
+🧠 System Design         →  Scalability, Load Balancing, Microservices
+🤖 LLM Engineering       →  RAG Pipelines, Fine-Tuning, LangChain
+🐳 DevOps Basics         →  Docker, CI/CD, Deployment on Vercel & Railway
+⚡ Advanced React        →  Server Components, Next.js App Router, Zustand
+🔒 Web Security          →  Auth flows, JWT, OAuth 2.0
 ```
 
 ### 📫 Connect With Me
@@ -207,6 +221,8 @@ const mohan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanramasamyy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanramasamy2005@gmail.com)
+
+*"Build systems that are not just functional — but meaningful to users."*
 
 </div>
 
