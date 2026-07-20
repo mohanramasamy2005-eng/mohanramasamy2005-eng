@@ -123,7 +123,7 @@ const Mohan = {
 ### 💼 Work Experience
 
 <details>
-<summary><b>Full Stack Development Intern — Nexrskill Technologies Pvt Ltd</b> (May 2026 - July 2026) | Remote</summary>
+<summary><b>Full Stack Development Intern — Nextskill Technologies Pvt Ltd</b> (May 2026 - July 2026) | Remote</summary>
 <br/>
 
 > `Full Stack` `MERN` `React.js` `Node.js`
