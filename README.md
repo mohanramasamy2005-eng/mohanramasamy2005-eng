@@ -223,9 +223,9 @@ const Mohan = {
 ### 📚 Currently Learning
 
 ```
-🧱 MERN Stack            → MongoDB, Express.js, React.js, Node.js
-🤖 AI API Integration    → Gemini API, Claude AI, Prompt Engineering
-🚀 Full Stack Dev        → End-to-end app architecture & deployment
+🧱 MERN Stack            →  MongoDB, Express.js, React.js, Node.js
+🤖 AI API Integration    →  Gemini API, Claude AI, Prompt Engineering
+🚀 Full Stack Dev        →  End-to-end app architecture & deployment
 🧠 System Design         →  Scalability, Load Balancing, Microservices
 🤖 LLM Engineering       →  RAG Pipelines, Fine-Tuning, LangChain
 🐳 DevOps Basics         →  Docker, CI/CD, Deployment on Vercel & Railway
