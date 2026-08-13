@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanramasamyy/)
 [![Profile Views](https://komarev.com/ghpvc/?username=mohanramasamy2005-eng&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/mohanramasamy2005-eng)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohanramasamy2005-eng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-bf91f3?style=flat-square&logo=netlify&logoColor=white)](https://mohan-ramasamy.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanramasamy2005@gmail.com)
 
 
